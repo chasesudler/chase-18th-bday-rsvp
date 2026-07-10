@@ -1,0 +1,13 @@
+{
+  "name": "chase-18th-rsvp-netlify",
+  "version": "1.0.0",
+  "description": "RSVP site for Chase's 18th Birthday",
+  "scripts": {
+    "build": "echo 'No build step required for static site'"
+  },
+  "dependencies": {
+    "mongoose": "^7.5.0",
+    "twilio": "^4.18.0",
+    "@netlify/functions": "^2.0.0"
+  }
+}
